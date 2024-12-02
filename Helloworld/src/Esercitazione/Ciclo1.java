@@ -13,7 +13,7 @@ for(i=0;i<=10;i++) {
 		while (i < 4) {
 		  i++;
 		  System.out.println(i);
-		  System.out.println("ciao");
+		  System.out.println("grazie");
 		}
 		
 	}
